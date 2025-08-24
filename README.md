@@ -37,7 +37,7 @@ It reveals:
 
 ## 📄 Dashboard Preview (PDF)
 
-📎 [CityPulse Dashboard PDF](./report/CityPulse%20Urban%20Traffic%20%26%20AQI%20Dashboard.pdf)
+📎 [CityPulse Dashboard PDF](https://drive.google.com/file/d/1VHb-fnZj6TTzmmHZsx9DPJpw4QkXjWTZ/view?usp=drive_link)
 
 ---
 
